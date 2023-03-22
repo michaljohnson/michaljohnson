@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michaljohnson
-- 🌱 I’m currently learning Python, C, Java
-- 💞️ I’m looking to collaborate on GitHub
+- 🌱 I’m currently learning Python, C, Java, SQL
+- 💞️ I’m looking forward to collaborate on GitHub
 
 
 <!---
