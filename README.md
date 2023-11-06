@@ -1,10 +1,10 @@
 # 👋 Hello, I'm Michal Johnson!
 
-Welcome to my GitHub space where the magic of code comes to life.
+Welcome to my GitHub space.
 
 ## About Me 🚀
 
-I'm an enthusiastic learner and a burgeoning developer, eagerly delving into the depths of programming languages and databases.
+I'm a keen student and a growing developer who is excited to explore programming languages and databases.
 
 ## Learning Journey 🌱
 
