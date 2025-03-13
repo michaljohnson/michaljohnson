@@ -1,27 +1,35 @@
-👋 Hello, I'm Michal Johnson!
+# 👋 Hello, I'm Michal Johnson!
 
 Welcome to my GitHub space.
 
-## About Me 🚀
+## About Me 🙋🏼‍♀️
 
-I'm a keen student and a growing developer who is excited to explore programming languages and databases.
+I'm a passionate software developer and  a dedicated mother. I just love exploring new technologies and I'm always looking to expand my skill set. Right now, I'm lucky enough to be part of a vibrant startup team, working on the development of an exciting new web application.
 
-## Learning Journey 🌱
+## My Learning Journey 🌱
 
-I'm currently sharpening my skills in:
+I have hands-on experience in a variety of programming languages and frameworks, including:
 
--  **Python** 🐍: Embracing its versatility for everything from web development to data science.
--  **C** 🖥️: Getting down to the nitty-gritty of computer science with this foundational language.
--  **Java** ☕: Building robust and scalable applications with this object-oriented stalwart.
--  **SQL** 🗃️: Querying databases and managing data like a pro.
--  **JavaScript** 🌐: Crafting dynamic web applications and enhancing user experiences.
--  **TypeScript** 🔧: Adding type safety to my JavaScript projects for better maintainability.
--  **HTML** 📄: Structuring web content with semantic markup.
--  **CSS** 🎨: Styling websites to create visually appealing layouts.
--  **React** ⚛️: Gaining hands-on experience in building user interfaces with this popular library.
+-  **Java**: Building robust, scalable applications.
+-  **JavaScript & TypeScript**: Crafting interactive web experiences.
+-  **C**: Understanding low-level programming and systems.
+-  **Python**: Leveraging its versatility for data analysis and automation.
+-  **Assembly**: Gaining insights into computer architecture.
+-  **Svelte & React**: Developing modern, responsive user interfaces.
+-  **Spring Boot**: Creating efficient, enterprise-level back-end services.
 
-## Collaboration 💞️
+## Projects & Contributions 🚀
 
-I'm on the lookout for exciting projects and creative collaborations on GitHub. If you have an idea or a project that you think might spark my interest, feel free to reach out!
+### [lernello](https://github.com/nova-omnia/lernello)
 
-Let's connect and create something impactful together.
+-  **Description**: Lernello is an AI powered learning platform designed specifically for business training environments. The plattform automates the generation of interactive learning units that seamlessly integrate embedded videos, texts, graphics, and audio with engaging assessments. My responsibility covers back-end & front-end development, with responsibility for determining the most appropriate architectural patterns and refactoring where necessary.
+-  **Technologies Used**: Svelt, Spring Boot, Typescript, Java, Gradle, Docker, litellm, Ollama, H2 Database
+
+### [ESY-Monitor](https://github.com/michaljohnson/ESYMonitor)
+
+-  **Description**: ESY-Monitor is a mobile application (for iOS and Android) designed to connect physically to a battery and measure its quality, especially in camper vans. My major task in this ongoing project is to update and release new versions of the application.
+-  **Technologies Used**: Java, Gradle, Javascript
+
+## Connect with Me 🤝
+I'm always enthusiastic to connect with fellow developers and explore new opportunities. Feel free to check out my other GitHub account at [GitHub ZHAW](https://github.zhaw.ch/johnsmic).
+Thanks for visiting my GitHub space!
