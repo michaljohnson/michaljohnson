@@ -1,7 +1,3 @@
-# 👋 Hello, I'm Michal Johnson!
-
-Welcome to my GitHub space.
-
 ## About Me 🙋🏼‍♀️
 
 I'm a passionate software developer and a dedicated mother. I love exploring new technologies and am always eager to expand my skill set. Currently, I'm fortunate to be part of a vibrant startup team, working on the development of an exciting new web application. Our project management approach is agile, allowing us to adapt quickly and deliver high-quality software efficiently.
