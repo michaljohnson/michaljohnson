@@ -9,16 +9,18 @@ I'm a passionate software developer and  a dedicated mother. I just love explori
 ## My Learning Journey 🌱
 
 I have hands-on experience in a variety of programming languages and frameworks, including:
+-   **Java**: Building robust, scalable applications.
+-   **JavaScript & TypeScript**: Crafting interactive web experiences.
+-   **C**: Understanding low-level programming and systems.
+-   **Python**: Leveraging its versatility for data analysis and automation.
+-   **Assembly**: Gaining insights into computer architecture.
+-   **Svelte & SvelteKit**: Developing modern, responsive user interfaces.
+-   **React**: Building dynamic front-end applications.
+-   **Spring Boot**: Creating efficient, enterprise-level back-end services.
+-   **Node.js**: Developing scalable network applications.
+-   **Gradle & Maven**: Managing project dependencies and build automation.
 
--  **Java**: Building robust, scalable applications.
--  **JavaScript & TypeScript**: Crafting interactive web experiences.
--  **C**: Understanding low-level programming and systems.
--  **Python**: Leveraging its versatility for data analysis and automation.
--  **Assembly**: Gaining insights into computer architecture.
--  **Svelte & React**: Developing modern, responsive user interfaces.
--  **Spring Boot**: Creating efficient, enterprise-level back-end services.
-
-## Projects & Contributions 🚀
+## Most recent Projects & Contributions 🚀
 
 ### [lernello](https://github.com/nova-omnia/lernello)
 
