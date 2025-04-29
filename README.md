@@ -21,6 +21,3 @@ I'm from Switzerland 🇨🇭. I'm a huge fan of working on any kind of project 
 [![pngwing com (15)](https://github.com/user-attachments/assets/7f7ff3f8-41e4-4d79-8f61-3f7c487c64da)](https://tailwindcss.com/plus/ui-blocks/application-ui/overlays/modal-dialogs)
 [![image](https://github.com/user-attachments/assets/f8677423-3dd7-4400-a5d1-3742511c680d)](https://www.skeleton.dev/)
 
-
-### 📫 How to reach me
-[![pngwing com (16)](https://github.com/user-attachments/assets/d54e9523-d1ba-43c8-822b-15ba86835888)](https://www.linkedin.com/in/michal-j-963215241/)
