@@ -1,8 +1,18 @@
-## About Me 🙋🏼‍♀️
+## Hi there 👋🏻, my name is Michal Johnson
+### 🙋🏼‍♀ About me
+I'm from Switzerland 🇨🇭. I'm a huge fan of working on any kind of project with fellow developers 💻. When I'm not working on a bug or building new features, I can be found spending time with my loving son and husband👶🏽🙋🏾‍♂️❤️, hiking 🏞️, playing music 🎤 🎹, doing fotografie 📷 🏌️ and lifting weights in the gym🏋🏼‍♀️.
 
-I'm a software developer/mother. I love exploring new technologies and always eager to expand my skill set. Currently, I'm part of a startup team, working on the development of an exciting new web application. Our project management approach is agile, allowing us to adapt quickly and deliver high-quality software efficiently.
+### 🚀 I'm currently working on 
+[![image](https://github.com/user-attachments/assets/587b0f50-0b0a-4c92-a4a6-064fe7242e69)](https://github.com/nova-omnia/lernello)
+[![image](https://github.com/user-attachments/assets/9e4a76e9-b440-4cc7-bad5-1b22721d2dff)](https://github.com/michaljohnson/ESYMonitor)
 
-## My Learning Journey 🌱
+### 🌱 My Learning Journey
+[![image](https://github.com/user-attachments/assets/100e0977-23bd-470d-bb20-c36957421fca)
+](https://docs.oracle.com/en/java/javase/24/docs/api/index.html)
+[![image](https://github.com/user-attachments/assets/012a5ad7-9086-457a-a9e9-acc30904597a)](https://www.typescriptlang.org/)
+
+
+
 
 I have hands-on experience in a variety of programming languages and frameworks, including:
 -   **Java**: Building robust, scalable applications.
@@ -16,20 +26,5 @@ I have hands-on experience in a variety of programming languages and frameworks,
 -   **Node.js**: Developing scalable network applications.
 -   **Gradle & Maven**: Managing project dependencies and build automation.
 
-## Most recent Projects & Contributions 🚀
 
-### [lernello](https://github.com/nova-omnia/lernello)
 
--  **Description**: Lernello is an AI powered learning platform designed specifically for business training environments. The plattform automates the generation of interactive learning units that seamlessly integrate embedded videos, texts, graphics, and audio with engaging assessments.
--  **My Position**: My responsibility covers back-end & front-end development, with responsibility for determining the most appropriate architectural patterns and refactoring where necessary.
--  **Technologies Used**: Svelt, Spring Boot, Typescript, Java, Gradle, Docker, litellm, Ollama, H2 Database
-
-### [ESY-Monitor](https://github.com/michaljohnson/ESYMonitor)
-
--  **Description**: ESY-Monitor is a mobile application (for iOS and Android) designed to connect physically to a battery and measure its quality, especially in camper vans.
--  **My Position**: My major task in this ongoing project is to update and release new versions of the application.
--  **Technologies Used**: Java, Gradle, Javascript
-
-## Connect with Me 🤝
-I'm always enthusiastic to connect with fellow developers and explore new opportunities. Feel free to check out my other GitHub account at [GitHub ZHAW](https://github.zhaw.ch/johnsmic).
-Thanks for visiting my GitHub space!
