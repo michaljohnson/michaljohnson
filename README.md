@@ -8,8 +8,7 @@ I'm from Switzerland 🇨🇭. I'm a huge fan of working on any kind of project 
 
 ### 🌱 My Learning Journey
 [![pngwing com (4)](https://github.com/user-attachments/assets/b32a9b2c-2ef7-472b-955e-a77182cdbb05)](https://www.java.com/en/)
-[![pngwing com (2)](https://github.com/user-attachments/assets/05150936-0cf4-4a76-b0ea-35a163fb9bb3)
-]([https://docs.oracle.com/en/java/javase/24/docs/api/index.html](https://developer.mozilla.org/en-US/docs/Web/JavaScript))
+[![pngwing com (2)](https://github.com/user-attachments/assets/05150936-0cf4-4a76-b0ea-35a163fb9bb3)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![pngwing com (3)](https://github.com/user-attachments/assets/f82bb4f1-5756-42dc-a994-aec6da71dba6)](https://www.typescriptlang.org/)
 [![pngwing com (5)](https://github.com/user-attachments/assets/fda82551-887c-4f83-9c3c-56e05a99da7b)](https://devdocs.io/c/)
 [![pngwing com (6)](https://github.com/user-attachments/assets/21e12ec4-a84f-478b-bad2-22870ffe10db)](https://www.python.org/)
