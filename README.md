@@ -1,6 +1,6 @@
 ## Hi there 👋🏻, my name is Michal Johnson
 ### 🙋🏼‍♀ About me
-I'm from Switzerland 🇨🇭. I'm a huge fan of working on any kind of project with fellow developers 💻. When I'm not working on a bug or building new features, I can be found spending time with my loving son and husband👶🏽🙋🏾‍♂️❤️, hiking 🏞️, playing music 🎤 🎹, doing fotografie 📷 🏌️ and lifting weights in the gym🏋🏼‍♀️.
+I'm from Switzerland 🇨🇭. I'm a huge fan of working on any kind of project with fellow developers 💻. When I'm not working on a bug or building new features, I can be found spending time with my loving son and husband👶🏽🙋🏾‍♂️❤️, hiking 🏞️, playing music 🎤 🎹, doing fotografie 📷  and lifting weights in the gym🏋🏼‍♀️.
 
 ### 🚀 I'm currently working on 
 [![image](https://github.com/user-attachments/assets/e7ee7b1f-f4ca-4539-86c9-4cc8f2eb5eb3)](https://github.com/nova-omnia/lernello)
