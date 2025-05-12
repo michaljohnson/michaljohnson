@@ -1,4 +1,10 @@
 ## Hi there 👋🏻, my name is Michal Johnson
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaljohnson&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=michaljohnson&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/languages?username=michaljohnson)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 ### 🙋🏼‍♀ About me
 I'm from Switzerland 🇨🇭. I'm a huge fan of working on any kind of project with fellow developers 💻. When I'm not working on a bug or building new features, I can be found spending time with my loving son and husband👶🏽🙋🏾‍♂️❤️, hiking 🏞️, playing music 🎤 🎹, doing fotografie 📷  and lifting weights in the gym🏋🏼‍♀️.
 
@@ -7,13 +13,8 @@ I'm from Switzerland 🇨🇭. I'm a huge fan of working on any kind of project 
 [![image](https://github.com/user-attachments/assets/d2941c89-45a9-42be-ad8d-d75a4284005b)](https://github.com/michaljohnson/ESYMonitor)
 
 ### 🌱 My Learning Journey
-[![pngwing com (4)](https://github.com/user-attachments/assets/b32a9b2c-2ef7-472b-955e-a77182cdbb05)](https://www.java.com/en/)
-[![pngwing com (2)](https://github.com/user-attachments/assets/05150936-0cf4-4a76-b0ea-35a163fb9bb3)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![pngwing com (3)](https://github.com/user-attachments/assets/f82bb4f1-5756-42dc-a994-aec6da71dba6)](https://www.typescriptlang.org/)
-[![pngwing com (5)](https://github.com/user-attachments/assets/fda82551-887c-4f83-9c3c-56e05a99da7b)](https://devdocs.io/c/)
-[![pngwing com (6)](https://github.com/user-attachments/assets/21e12ec4-a84f-478b-bad2-22870ffe10db)](https://www.python.org/)
+
 [![pngwing com (7)](https://github.com/user-attachments/assets/02de2077-dd3b-486c-bc38-7a0eaa35c08e)](https://svelte.dev/)
-[![pngwing com (8)](https://github.com/user-attachments/assets/58bbe48e-ee9c-4b67-9b11-3c9299f3e38b)](https://react.dev/)
 [![image](https://github.com/user-attachments/assets/45813d8e-3454-441d-9a8e-ddeb2ea2b23e)](https://spring.io/projects/spring-boot)
 [![pngwing com (9)](https://github.com/user-attachments/assets/d7bcc702-1050-463f-b45c-2940bbac4445)](https://nodejs.org/en)
 [![pngwing com (10)](https://github.com/user-attachments/assets/41ee6f8c-3009-4343-8d05-2f31f30d1e0b)](https://gradle.org/)
