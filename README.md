@@ -8,7 +8,7 @@ I'm from Switzerland 🇨🇭. I'm a huge fan of working on any kind of project 
 
 ### 🚀 I'm currently working on 
 [![image](https://github.com/user-attachments/assets/e7ee7b1f-f4ca-4539-86c9-4cc8f2eb5eb3)](https://github.com/nova-omnia/lernello)
-[![image](https://github.com/user-attachments/assets/d2941c89-45a9-42be-ad8d-d75a4284005b)](https://github.com/michaljohnson/ESYMonitor)
+
 
 ### 🌱 My Learning Journey
 
