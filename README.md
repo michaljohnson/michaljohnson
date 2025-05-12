@@ -3,8 +3,6 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=michaljohnson&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/languages?username=michaljohnson)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
 ### 🙋🏼‍♀ About me
 I'm from Switzerland 🇨🇭. I'm a huge fan of working on any kind of project with fellow developers 💻. When I'm not working on a bug or building new features, I can be found spending time with my loving son and husband👶🏽🙋🏾‍♂️❤️, hiking 🏞️, playing music 🎤 🎹, doing fotografie 📷  and lifting weights in the gym🏋🏼‍♀️.
 
