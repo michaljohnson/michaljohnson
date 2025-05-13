@@ -5,4 +5,4 @@
 I'm from Switzerland 🇨🇭. I'm a huge fan of working on any kind of project with fellow developers 💻. When I'm not working on a bug or building new features, I can be found spending time with my loving son and husband👶🏽🙋🏾‍♂️❤️, hiking 🏞️, playing music 🎤 🎹, doing fotografie 📷  and lifting weights in the gym🏋🏼‍♀️.
 
 ### 🚀 I'm currently working on 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nova-omnia&repo=lernello&show_owner=true&description_lines_count=2)](https://github.com/nova-omnia/lernello)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nova-omnia&repo=lernello&show_owner=true&description_lines_count=5)](https://github.com/nova-omnia/lernello)
