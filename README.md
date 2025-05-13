@@ -4,7 +4,7 @@
 I'm from Switzerland 🇨🇭. I'm a huge fan of working on any kind of project with fellow developers 💻. When I'm not working on a bug or building new features, I can be found spending time with my loving son and husband👶🏽🙋🏾‍♂️❤️, hiking 🏞️, playing music 🎤 🎹, doing fotografie 📷  and lifting weights in the gym🏋🏼‍♀️.
 
 ### 🚀 I'm currently working on 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nova-omnia&repo=lernello&show_owner=true&description_lines_count=2)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nova-omnia&repo=lernello&show_owner=true&description_lines_count=2)](https://github.com/nova-omnia/lernello)
 
 ### 🌱 My Learning Journey
 [![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=michaljohnson&show_icons=true&theme=tokyonight&hide=stars,contribs&show=prs_merged,reviews&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaljohnson&layout=compact&theme=tokyonight&size_weight=0.5&count_weight1&langs_count=10&hide=Roff,CMake,Makefile,Batchfile)](https://github.com/anuraghazra/github-readme-stats)
