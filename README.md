@@ -1,5 +1,5 @@
 ## Hi there 👋🏻, my name is Michal Johnson
-![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=michaljohnson&show_icons=true&theme=tokyonight&hide=stars,contribs&show=prs_merged,reviews&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaljohnson&layout=compact&theme=tokyonight&size_weight=0.5&count_weight1&langs_count=10&hide=Roff,CMake,Makefile,Batchfile)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=michaljohnson&show_icons=true&theme=tokyonight&hide=contribs&show=prs_merged,reviews&include_all_commits=true&line_height=24) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaljohnson&layout=compact&theme=tokyonight&size_weight=0.5&count_weight1&langs_count=10&hide=Roff,CMake,Makefile,Batchfile)
 
 ### 🙋🏼‍♀ About me
 I'm from Switzerland 🇨🇭. I'm a huge fan of working on any kind of project with fellow developers 💻. When I'm not working on a bug or building new features, I can be found spending time with my loving son and husband👶🏽🙋🏾‍♂️❤️, hiking 🏞️, playing music 🎤 🎹, doing fotografie 📷  and lifting weights in the gym🏋🏼‍♀️.
