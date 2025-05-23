@@ -3,7 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaljohnson&layout=compact&theme=transparent&size_weight=0.5&count_weight1&langs_count=10&hide=Roff,CMake,Makefile,Batchfile&card_width=400)
 
 ### 🙋🏼‍♀ About me
-I love teaming up with other devs to build cool stuff and squash bugs. Outside of coding, you'll find me hanging out with my husband and son, hiking, making music, lifting weights, or snapping photos
+I love teaming up with other devs to build cool stuff and fix problems. When I am not working on coding projects, I enjoy spending time with my husband and son, hiking, making music, lifting weights, or taking photos
 
 ### 🚀 I'm currently working on 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nova-omnia&repo=lernello&show_owner=true&description_lines_count=1&theme=transparent)](https://github.com/nova-omnia/lernello)
