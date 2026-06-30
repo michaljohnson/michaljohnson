@@ -10,3 +10,8 @@ Software Engineering student with a strong interest in software architecture and
 Experience in full-stack development. I care about clean architecture, maintainable code, and well-structured systems that scale in real-world environments.
 
 While writing my bachelor thesis I found my love for robotics! Check out my skill based and multi agent systems for long horizon robotic tasks
+
+Check out my latest framework HARLOW ⬇️
+
+https://github.com/user-attachments/assets/d0629eef-9584-4bb3-8ee8-102197eb9802
+
