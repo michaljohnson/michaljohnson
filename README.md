@@ -1,7 +1,5 @@
 ## Hi there 👋🏻, my name is Michal Johnson
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaljohnson&layout=compact&theme=transparent&size_weight=0.5&count_weight1&langs_count=10&hide=Roff,CMake,Makefile,Batchfile&exclude_repo=MLDM&card_width=400)
-
 ### 🙋🏼‍♀ About me
 
 I’m a software / prompt engineer with experience in full-stack development. I care about clean architecture, maintainable code, and well-structured systems that can be scaled in real-world environments.
