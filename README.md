@@ -2,9 +2,11 @@
 
 ### 🙋🏼‍♀ About me
 
-I’m a software / prompt engineer with experience in full-stack development. I care about clean architecture, maintainable code, and well-structured systems that can be scaled in real-world environments.
+My background is software engineer with experience in full-stack development. I care about clean architecture, maintainable code, and well-structured systems that can be scaled in real-world environments.
 
 While writing my bachelor's thesis on implementing my own agentic AI approaches for long-horizon robotic tasks, I realized that I had found my passion in robotics🤖
+
+Currently I'm in my masters doing research in the field of physical ai with mobile robots.
 
 You will find me doing research and, hopefully, making my own impact on this rapidly advancing field of AI in robotics. 🚀 
 
