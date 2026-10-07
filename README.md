@@ -1,16 +1,13 @@
-## Hi there 👋🏻, my name is Michal Johnson
+## Hi, I'm Michal 👋
 
-### 🙋🏼‍♀ About me
+MSE student at ZHAW, working on **agentic AI for mobile robots**.
 
-My background is software engineer with experience in full-stack development. I care about clean architecture, maintainable code, and well-structured systems that can be scaled in real-world environments.
+- **Now:** bringing LLM agent architectures from simulation to a real Summit XL mobile manipulator (UR5e arm)
+- **Bachelor's thesis:** three agent architectures for long-horizon pick-and-place, compared in Gazebo: [multi_agent](https://github.com/michaljohnson/multi_agent) and [skill_based](https://github.com/michaljohnson/skill_based) on a shared MCP layer
+- **Stack:** ROS 2, Nav2, MoveIt, MCP, Python
 
-While writing my bachelor's thesis on implementing my own agentic AI approaches for long-horizon robotic tasks, I realized that I had found my passion in robotics🤖
+My background is full-stack software engineering. The thesis is where I found robotics.
 
-Currently I'm in my masters doing research in the field of physical ai with mobile robots.
-
-You will find me doing research and, hopefully, making my own impact on this rapidly advancing field of AI in robotics. 🚀 
-
-Check out my latest framework HARLOW ⬇️
+### HARLOW
 
 https://github.com/user-attachments/assets/d0629eef-9584-4bb3-8ee8-102197eb9802
-
